@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,aAAa,CAAC,QAAQ;EACtB,YAAY,CAAC,QAAQ;EACrB,YAAY,CAAC,QAAQ;EACrB,YAAY,CAAC,QAAQ",
+"sources": ["vars.scss"],
+"names": [],
+"file": "vars.css"
+}
