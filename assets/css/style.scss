@@ -33,6 +33,9 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  @media (max-width: 1200px) {
+      height: 80vh;
+  }
 }
 
 .section-2 {
@@ -112,7 +115,7 @@
 }
 
 .bg-light-white {
-  background-color: #ffffffb3 !important
+  background-color: rgba(255, 255, 255, 0.7) !important
 }
 
 .bg-cover {
@@ -201,11 +204,6 @@
   transition-duration: .2s;
 }
 
-@media (max-width: 1200px) {
-  .section-1 {
-    height: 80vh;
-  }
-}
 
 @media (max-width: 576px) {
   .product {
